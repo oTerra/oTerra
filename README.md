@@ -1,5 +1,9 @@
-## Opaaa, Salve!!! Aqui eh o Terra!!
+## Olá pessoal, me chamo Vinícios Terra de Freitas
+<p>Desenvolvedor RPA (Robotic Process Automation), com a plataforma da UiPath. Sou Técnico em Eletrônica, pela Fundação Liberato Salzano Vieira da Cunha. Tenho conhecimentos em projetos com microcontroladores, projeto e construção de placas de circuito impresso, planejamento e montagens de circuitos digitais para determinados fins e programação na linguagem C.
+Atualmente trabalho no setor de RPA da empresa Meta (Tecnologia da informação e serviços), realizando arquiteturas, desenvolvimentos e sustentações de automações para inúmeras funções. Experiência em projetos integrados às inteligencias artificiais da OpenAI, tendo como maior destaque um projeto que consegue extrair o sentimento hipotético de resposta a uma proposta para um cliente. 
+Me fascino por tecnologias e por isso busco maneiras de integrá-las no meu dia a dia, desta forma otimizando minhas tarefas e expandindo meu conhecimento. No momento estou fazendo o estudo de Front-End (HTML e CSS) e também Python 3 integrado ao UiPath Studio.</p>
 
+<br>
 <br>
 
 <div align="center">
