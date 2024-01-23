@@ -36,6 +36,6 @@
         ".pane-body": "padding: 8px",
     },
     "explorer.fileNesting.enabled": true,
-    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font"
-
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
 }
