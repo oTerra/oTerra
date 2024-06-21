@@ -1,30 +1,32 @@
 {
-    "symbols.hidesExplorerArrows": false,
     "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 12,
+    "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
-    "editor.rulers": [80, 120],
-    "editor.renderLineHighlight": "all",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
     "editor.fontLigatures": true,
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
     "workbench.activityBar.location": "hidden",
     "editor.minimap.enabled": false,
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
-    "workbench.statusBar.visible": false,
-    "workbench.layoutControl.enabled": false,
+    "workbench.statusBar.visible": true,
     "window.commandCenter": false,
-    "window.menuBarVisibility": "hidden",
+    "workbench.layoutControl.enabled": false,
     "window.titleBarStyle": "native",
     "apc.electron": {
-        "titleBarStyle": "hiddenInset"
+        "titleBarStyle": "hiddenInset",
+        "frame": false
     },
     "apc.header": {
-        "height": 36
+        "height": 36,
+        "fontSize": 14
     },
     "apc.listRow": {
         "height": 25
@@ -32,10 +34,10 @@
     "apc.font.family": "JetBrains Mono",
     "apc.stylesheet": {
         ".title-label > h2": "display: none",
-        ".editor-actions": "display: none",
+        ".edito-actions": "display: none",
         ".pane-body": "padding: 8px",
+        ".pane-header": "padding: 0 8px"
     },
-    "explorer.fileNesting.enabled": true,
-    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrains Mono"
 }
